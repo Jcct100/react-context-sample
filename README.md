@@ -32,7 +32,7 @@ class MyProvider extends Component {
   }
 }
 
-# 3) In the component you want to pass the value to, write the providers and inside write a function to pass in the value to be displayed. 
+# 3) In the component you want to pass the value to, wrap around with the providers and inside write a function to pass in the value to be displayed. 
 
 E.g. 
 
